@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YHUtiliitiesSDK"
-  s.version      = "0.0.2"
+  s.version      = "1.0.0"
   s.summary      = "YHUtiliitiesSDK is a utiliities sdk"
 
   s.description  = "YHUtiliitiesSDK"
@@ -12,9 +12,9 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
 
   s.author       = { "XmYhkj" => "yhkj_xm@163.com" }
-  s.platform     = :ios, "8.1"
+  s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/XmYlzYhkj/YHUtiliitiesSDK.git", :tag => "0.0.2" }
+  s.source       = { :git => "https://github.com/XmYlzYhkj/YHUtiliitiesSDK.git", :tag => "1.0.0" }
 
   #s.source_files  = "Classes", "Classes/*"
 
