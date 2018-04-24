@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "YHUtiliitiesSDK is a utiliities sdk"
 
-  s.description  = "YHUtiliitiesSDK"
+  s.description  = "易惠科技的通用扩展帮助SDK，提供各种便捷的Helper"
 
   s.homepage     = "https://github.com/XmYlzYhkj/YHUtiliitiesSDK"
 
