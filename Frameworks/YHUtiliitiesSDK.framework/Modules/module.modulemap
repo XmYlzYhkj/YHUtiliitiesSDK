@@ -1,6 +1,0 @@
-framework module YHUtiliitiesSDK {
-  umbrella header "YHUtiliitiesSDK.h"
-
-  export *
-  module * { export * }
-}
