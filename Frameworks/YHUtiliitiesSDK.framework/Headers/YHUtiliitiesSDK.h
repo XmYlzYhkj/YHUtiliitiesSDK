@@ -24,4 +24,5 @@ FOUNDATION_EXPORT const unsigned char YHUtiliitiesSDKVersionString[];
 #import <YHUtiliitiesSDK/YHPredicateHelper.h>
 #import <YHUtiliitiesSDK/YHViewHelper.h>
 #import <YHUtiliitiesSDK/YHImageHelper.h>
+#import <YHUtiliitiesSDK/YHEnvDetectionHelper.h>
 
